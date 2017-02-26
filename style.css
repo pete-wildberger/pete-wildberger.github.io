@@ -1,7 +1,7 @@
 html, body {
   font-family:  "Helvetica", sans-serif, 16px;
   margin: 0;
-  width: 100%;
+  width: 900px;
   height: 100%;
 }
 header {
@@ -13,9 +13,7 @@ h1 {
   left: 25%;
 }
 .nav {
-  max-width: 25%;
-  min-width: 140px;
-  flex: 1;
+  width: 300px;
 }
 .container {
   display: flex;
