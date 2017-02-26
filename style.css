@@ -8,3 +8,11 @@ header {
   color: white;
   background color: blue;
 }
+.nav {
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
+.container {
+  display: flex;
+}
