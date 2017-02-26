@@ -15,9 +15,7 @@ h1 {
   margin:20px;
   clear: both;
 }
-.container {
-  display: flex;
-}
+
 #experience {
   float: right;
   width: 600px;
@@ -28,10 +26,11 @@ h1 {
   color: white;
   background color: blue;
   clear: both;
+  height: 240px;
 }
 #profile {
   position: absolute;
   top: 20px;
   left: 20px;
-  z-index: 1;
+  height: 200px;
 }
