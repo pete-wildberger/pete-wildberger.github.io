@@ -6,8 +6,7 @@ html, body {
 }
 
 h1 {
-  position: absolute;
-  left: 25%;
+  position: center
 }
 #contactinfo {
   float:left;
@@ -17,7 +16,6 @@ h1 {
 }
 
 #experience {
-  float: right;
   width: 600px;
   margin: 20px;
   clear: both;
