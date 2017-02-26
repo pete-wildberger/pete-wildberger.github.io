@@ -1,30 +1,43 @@
-html, body {
-  font-family:  "Helvetica", sans-serif, 16px;
+body {
+  font: 16px "Helvetica", sans-serif; 
   margin: 0;
   width: 900px;
   height: 100%;
 }
 
 h1 {
-  position: center
+  float: right;
+    width:97%;
 }
-#contactinfo {
-  float:left;
-  width: 300px;
+#leftcolumn {
+    background-color: rgb(219, 219, 219);
+    height: 100%;
+  float: left;
+  width: 25%;
+ margin-left: 20px;
+ padding: 20px;
+  clear: both;
+  z-index:2;
+}
+#education{
+  float: left;
+  width: 22%;
   margin:20px;
   clear: both;
 }
-
-#experience {
-  width: 600px;
+#rightcolumn {
+    float: right;
+    width:60%;
   margin: 20px;
-  clear: both;
 }
 #header {
+  text-align: center;
   color: white;
-  background color: blue;
+  margin-top: 20px;
+  background-color: blue;
   clear: both;
   height: 240px;
+  z-index:1;
 }
 #profile {
   position: absolute;
