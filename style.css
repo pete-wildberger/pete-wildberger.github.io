@@ -13,6 +13,7 @@ h1 {
   left: 25%;
 }
 .nav {
+  float:left;
   width: 300px;
   margin:20px;
 }
