@@ -10,8 +10,6 @@ h1 {
     width:97%;
 }
 
-
-
 #leftcolumn {
     background-color: rgb(219, 219, 219);
   float: left;
@@ -51,4 +49,6 @@ h1 {
   top: 40px;
   left: 60px;
   height: 200px;
+  border-style: double;
+  border-width: 3px;
 }
