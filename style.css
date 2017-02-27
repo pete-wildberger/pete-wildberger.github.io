@@ -33,8 +33,9 @@ h1 {
 #header {
   text-align: center;
   color: white;
+  text-shadow: 1px 5px black;
   margin-top: 20px;
-  background-color: blue;
+  background-color: rgb(46, 97, 54);
   clear: both;
   height: 240px;
   z-index:1;
