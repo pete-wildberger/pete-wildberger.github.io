@@ -54,6 +54,7 @@ h1 {
 }
 #footer {
     text-align: left;
+  margin: 20px;
     clear: both;
     border-top: 1px solid black;
 }
