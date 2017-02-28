@@ -52,6 +52,11 @@ h1 {
   border-style: double;
   border-width: 3px;
 }
+#footer {
+    text-align: left;
+    clear: both;
+    border-top: 1px solid black;
+}
 .date{
 float: right;
 }
